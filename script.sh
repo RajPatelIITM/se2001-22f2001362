@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Export the GitHub username
+#Export the GitHub username
 export GITHUB_USERNAME="RajPatelIITM"
 
-# Export the GitHub repository name
+#Export the GitHub repository name
 export GITHUB_REPOSITORY="se2001-22f2001362"
